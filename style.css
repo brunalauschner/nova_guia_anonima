@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #35363a; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.anonimo{
+    background: url('./img/carinha.PNG');
+    width: 130px;
+    height: 130px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 80px 0 0 615px;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 23px 5px 23px 460px;
+    color: white;
+}
+
+.texto{
+    background-size: cover;
+    margin: 0px 410px 0px 400px;
+}
+
+#informacoes{
+    font-size: 13px;
+    margin: 10px 5px 0 0px;
+    color: white;
+}
+
+#link{
+    font-size: 15px;
+    color: rgb(138, 180, 248);
+}
+
+#subtexto{
+    display: flex;
+}
+
+#parteum{
+    font-size: 13px;
+    margin: 10px 5px 0 0px;
+    color: white;
+}
+
+#partedois{
+    font-size: 13px;
+    margin: 10px 5px 0 0px;
+    color: white;
+}
